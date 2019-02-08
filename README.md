@@ -20,7 +20,7 @@ Infrastructure as a Service - In this workshop we will create;
 
 ## Workshop 2
 Platform as a Service- In this workshop we will create;
-- 3 Resource Group - one central - management, two satellite region
+- Three Resource Groups - one central - management, two satellite region
 - App Service Plan and App services for each satellite regions 
 	- Assign host names of the App Services as App Settings
 - Traffic Manager Profile and SQL Database in central regions
