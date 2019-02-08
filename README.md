@@ -29,4 +29,6 @@ Platform as a Service- In this workshop we will create;
 
 ## Workshop 3
 Kubernetes, AKS is the managed Kubertenes services from Azure - In this workshop we will create;
+For this Workshop you would need to create Service Pricincipal before. Please see - https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
 - Resource Group
+- Two D1_V2 Linux Nodes AKS cluster. ( You will see it's so easy! )
