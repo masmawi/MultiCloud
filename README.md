@@ -7,7 +7,7 @@ Join us for a 1-day deep technical hands-on workshop where our subject matter ex
 Engage with technical subject matter experts who can help demonstrate how to solve your challenges with a variety of approaches using Azure technologies.
 
 # Workshops
-There will be 3 workshops from IaaS, PaaS to Kubernetes deployment
+There will be three workshops from IaaS, PaaS to Kubernetes deployment
 
 ## Workshop 1
 Infrastructure as a Service - In this workshop we will create;
